@@ -1,4 +1,5 @@
 numpy
-cv
 gunicorn
-flask
+Flask==2.0.1
+opencv-python==4.5.3.56
+opencv-contrib-python==4.5.3.56
