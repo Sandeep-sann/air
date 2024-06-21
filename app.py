@@ -2,7 +2,7 @@
 # coding: utf-8
 
 import numpy as np
-import cv2 as cv
+import cv
 from collections import deque
 from flask import Flask, render_template, Response
 
